@@ -43,7 +43,7 @@ const player = new Fighter({
   framesMax: 8,
   scale: 2.5,
   offset: {
-    x: 215,
+    x: 170,
     y: 157
   },
   sprites: {
@@ -88,7 +88,7 @@ const player = new Fighter({
 
 const enemy = new Fighter({
   position: {
-    x: 800,
+    x: 900,
     y: 100
   },
   velocity: {
