@@ -43,7 +43,7 @@ const player = new Fighter({
   framesMax: 8,
   scale: 2.5,
   offset: {
-    x: 170,
+    x: 170  ,
     y: 157
   },
   sprites: {
