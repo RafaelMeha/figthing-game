@@ -131,7 +131,7 @@ class Sprite {
     }
   
     takeHit() {
-      this.health -= 13
+      this.health -= 20
   
       if (this.health <= 0) {
         this.switchSprite('death')
